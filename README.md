@@ -1,5 +1,3 @@
-Certainly! Here's an example of a README file for a Zoho CRM Client Script repository:
-
 # Zoho CRM Client Script Repository
 
 This repository contains Zoho CRM Client Scripts that I use in my day-to-day activities to extend the functionality and automate processes within Zoho CRM.
@@ -74,5 +72,3 @@ Your contributions will be reviewed, and if approved, they will be merged into t
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code snippets and scripts in this repository according to the terms of the license.
 
 ---
-
-Feel free to customize this README file based on your specific needs, including adding more details about your Client Scripts, providing examples, or including any additional sections you find relevant.
